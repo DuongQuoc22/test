@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java/controller/LoginServlet.java=UTF-8
+encoding//src/main/java/controller/admin/CategoryServlet.java=UTF-8
+encoding//src/main/java/controller/admin/ProductServlet.java=UTF-8
+encoding//src/main/java/controller/admin/UserServlet.java=UTF-8
+encoding//src/main/java/filters/checkLoginFilter.java=UTF-8
+encoding//src/main/webapp/views/admin/users/edit.jsp=UTF-8
+encoding//src/main/webapp/views/login.jsp=UTF-8
